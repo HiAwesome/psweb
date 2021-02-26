@@ -1,5 +1,8 @@
 # Test web-app to use with Pluralsight courses and Docker Deep Dive book
 # Linux x64
+
+# 20210226 Test Dangling image
+# FROM alpine:3.12
 FROM alpine
 
 LABEL maintainer="nigelpoulton@hotmail.com"
