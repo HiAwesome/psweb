@@ -2,6 +2,7 @@
 # Linux x64
 
 # 20210226 Test Dangling image
+# alpine all tags url: https://hub.docker.com/_/alpine?tab=tags&page=1&ordering=last_updated
 # FROM alpine:3.12
 FROM alpine
 
